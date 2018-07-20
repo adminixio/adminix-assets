@@ -1,9 +1,9 @@
-<svg id="perl" xmlns="http://www.w3.org/2000/svg" width={144} height={72} viewBox="0 0 387.68 369.58">
+<svg id="perl" xmlns="http://www.w3.org/2000/svg" width="144" height="72" viewBox="0 0 387.68 369.58">
   <title>PerlLogo</title>
   <g id="Page-1">
-    <rect id="Background" width="387.68" height="369.58" style={{fill: '#bd8238'}} />
-    <g id="__" data-name="$_" style={{isolation: 'isolate'}}>
-      <text transform="translate(104.66 223.23) scale(1.05 1)" style={{isolation: 'isolate', fontSize: '133.05023193359375px', fill: '#fff', fontFamily: 'HiraKakuStdN-W8-83pv-RKSJ-H, Hiragino Kaku Gothic StdN'}}>$_</text>
+    <rect id="Background" width="387.68" height="369.58" style="fill: #bd8238"/>
+    <g id="__" data-name="$_" style="isolation: isolate">
+      <text transform="translate(104.66 223.23) scale(1.05 1)" style="isolation: isolate;font-size: 133.05023193359375px;fill: #fff;font-family: HiraKakuStdN-W8-83pv-RKSJ-H, Hiragino Kaku Gothic StdN">$_</text>
     </g>
   </g>
 </svg>
